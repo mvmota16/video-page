@@ -1,0 +1,30 @@
+<table width="1000">
+	<tbody>
+		<tr>
+			<td style="padding:0;"><img alt="Cabeçalho" src="https://stgctnocloudsec.blob.core.windows.net/customization/suporte-cateno.png" width="1000"></td>
+		</tr>
+		<tr>
+			<td style="padding:0; font-family:'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:20px; color:#336633;"><span style="color:#000000;">Oi <span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false">{{RECIPIENT_NAME}}</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>,</span></td>
+		</tr>
+		<tr>
+			<td style="padding:0; padding-top:10px; font-family:'Segoe UI', 'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:22px; color:#2a2a2a; color:#c5d335;"><span style="color:#000000;">Houve uma atualização no seu chamado</span></td>
+		</tr>
+		<tr>
+			<td style="padding:0; padding-top:10px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:22px; color:#2a2a2a"><strong><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false">{{AUTHOR}}</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong> <span style="color:#000000;">escreveu uma mensagem no chamado número</span><strong><span style="color:#00aab5;">&nbsp;<span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false">{{TICKET_PRETTY_NUMBER}}</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong><strong>&nbsp;<a class="link" href="{{TICKET_URL}}" style="color:#00aab5; text-decoration:none"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false">{{TICKET_TITLE}}</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></a></strong>&nbsp;:</td>
+		</tr>
+		<tr>
+			<td style="padding: 0; padding-top: 10px; font-family: 'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:22px; color: #000000"><em><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false"><span contenteditable="false">{{REPLY}}</span></span></span></span></span></span></span></span></span></span></span></span></span></em></td>
+		</tr>
+		<tr>
+			<td style="padding:0; padding-top:10px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:22px; color:#2a2a2a">
+			<table border="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td bgcolor="#336633" style="background-color:#00aab5; padding-top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; min-width:50px;"><a href="{{TICKET_URL}}" style="font-family: 'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:18px; text-align:center; text-decoration:none; font-weight:600; letter-spacing:0.02em; color:#fff;">Ver a solicitação</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
